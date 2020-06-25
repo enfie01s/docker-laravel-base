@@ -1,2 +1,4 @@
 /laravel/
 .vscode/
+docker/mysql/dbdata/*
+docker/nginx/logs/*
